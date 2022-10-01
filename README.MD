@@ -12,3 +12,5 @@
 8. Выполнение цикла происходит до тех пор, пока индекс (i) меньше длины введённого массива строк. Отсчет индексов начинаем с 0, с шагом +1.
 
 ### Код с решением задачи представлен в файле [Program.cs](https://github.com/DaryaSmirnova1992/Final_work/blob/main/Program.cs) ###
+
+### Блок-схема с решением задачи представлена в файле [diagramm.drawio.png](https://github.com/DaryaSmirnova1992/Final_checking_work/blob/main/diagramm.drawio.png) ###
